@@ -1,0 +1,2 @@
+# Data-Preprocessing-and-K-Nearest-Neighbour-KNN-Loan-Repayment-Prediction-using-KNN-
+Loan Repayment Prediction using KNN on the Lending Club dataset. The project includes data preprocessing, missing value handling, feature engineering, one-hot encoding, PCA-based dimensionality reduction, and KNN model training. Performance is evaluated using Accuracy, F1 Score, ROC-AUC, and Confusion Matrix visualization.
